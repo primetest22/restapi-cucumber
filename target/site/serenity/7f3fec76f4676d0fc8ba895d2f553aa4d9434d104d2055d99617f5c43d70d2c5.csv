@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing different request on rest api application","User should able to fetch employee information","FAILURE","2022-06-23T00:59:56.087+01:00[Europe/London]","0.0","4.96"
+"Testing different request on rest api application","User should able to update data","FAILURE","2022-06-23T01:00:04.466+01:00[Europe/London]","0.0","0.79"
